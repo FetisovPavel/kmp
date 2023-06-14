@@ -1,0 +1,65 @@
+.register,
+.authorization{
+    background-image: url('https://trashbox.ru/ifiles/1669243_258876_close-up-of-code-on-a-computer-screen.jpeg_min1x2/2022-07-21-google-carbon-programming-language-s-plus-plus-4.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+
+form {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.App {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 200px;
+}
+
+input {
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #f1f1f1;
+}
+
+label {
+    font-weight: bold;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4caf50;
+    color: #fff;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #3e8e41;
+}
+
+p {
+    display: block;
+    color: red;
+    margin-top: 10px;
+    margin-bottom: 0;
+    overflow-wrap: break-word;
+}
+
+h1 {
+    color: white;
+}

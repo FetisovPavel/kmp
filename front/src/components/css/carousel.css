@@ -1,0 +1,14 @@
+.my-carousel {
+    padding: 0;
+}
+
+.my-carousel-item {
+    display: flex;
+    max-height: 200px;
+}
+
+.my-carousel-img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
